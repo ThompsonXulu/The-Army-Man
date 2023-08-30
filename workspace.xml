@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b38dbea-4bc2-45c7-a14e-26dca661d1d1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2U1sHNqCfnvJ6cxSiIYnHoornOX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Thompson Xulu/Downloads/Personal&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b38dbea-4bc2-45c7-a14e-26dca661d1d1" name="Changes" comment="" />
+      <created>1692118334166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692118334166</updated>
+      <workItem from="1692118335087" duration="6351000" />
+      <workItem from="1692203173939" duration="965000" />
+      <workItem from="1692207274463" duration="7593000" />
+      <workItem from="1692253318929" duration="7708000" />
+      <workItem from="1692295189261" duration="3084000" />
+      <workItem from="1692298760580" duration="913000" />
+      <workItem from="1692382624843" duration="638000" />
+      <workItem from="1692383668907" duration="1251000" />
+      <workItem from="1692385287638" duration="2854000" />
+      <workItem from="1692467212282" duration="2903000" />
+      <workItem from="1692609209463" duration="12835000" />
+      <workItem from="1692624755242" duration="16420000" />
+      <workItem from="1692686007826" duration="308000" />
+      <workItem from="1692689015429" duration="646000" />
+      <workItem from="1692728682934" duration="325000" />
+      <workItem from="1692730696607" duration="285000" />
+      <workItem from="1692731215520" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
